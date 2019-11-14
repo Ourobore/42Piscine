@@ -1,0 +1,5 @@
+Credentials cache: API:7E890499-192C-4A8D-A6E2-AC0AAA42D391
+        Principal: lchapren@42.FR
+
+  Issued                Expires               Principal
+Aug 26 10:45:04 2019  Sep  2 10:45:04 2019  krbtgt/42.FR@42.FR
